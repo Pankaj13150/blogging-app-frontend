@@ -24,27 +24,32 @@ During the development of this application, AI tools were leveraged to enhance p
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js 
-- npm 
+
+- Node.js
+- npm
 
 ### Installation
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/Pankaj13150/blogging-app-frontend.git
    ```
 
 2. Navigate to the project directory:
+
    ```
    cd blogging-app-frontend
    ```
 
 3. Install dependencies:
+
    ```
    npm install
    ```
 
 4. Start the development server:
+
    ```
    npm start
    ```
@@ -57,16 +62,22 @@ During the development of this application, AI tools were leveraged to enhance p
 ### Available Scripts
 
 #### `npm start`
+
 Starts the development server.
 Open http://localhost:3000 to view it in your browser.
 The page reloads automatically when you make edits.
 
 #### `npm test`
+
 Runs the test runner in watch mode.
 This is useful for running unit tests and verifying code correctness.
 
 #### `npm run build`
+
 Builds the app for production to the `build` folder.
 The build is minified and the filenames include hashes.
 Your app is ready to be deployed!
 
+#### Demo Link
+
+https://drive.google.com/file/d/1lxGNrZER3Ai6TD3xfrNk3cV51LieoUw0/view?usp=drive_link
